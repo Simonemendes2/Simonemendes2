@@ -1,4 +1,4 @@
-## Hi there 👋  Tudo bem? Me chamo Simone
+## Hi there 👋  Tudo bem?
 
 
 <!--
