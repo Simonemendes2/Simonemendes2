@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 Onde me encontrar
-- GitHub: [github.com/Simonemendes2](https://github.com/Simonemendes92)  
+- GitHub: https://github.com/Simonemendes2
 - LinkedIn: [Simone Mendes](https://www.linkedin.com/in/simone-mendes-0594a321b/)  
 - Email: **simonesp1992@hotmail.com**  
 
