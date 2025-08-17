@@ -1,17 +1,27 @@
 ## Hi there 👋  Tudo bem?
 
+# 👩🏻‍💻 Olá, eu sou a Simone Mendes!  
 
-<!--
-**Simonemendes2/Simonemendes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Apaixonada por resolver problemas com tecnologia.  
+🎓 Formada em Análise e Desenvolvimento de Sistemas.  
+🌱 Atualmente aprendendo **JavaScript, Python e SQL**.  
+💻 Já estudei **HTML, CSS, Lógica de Programação e Git**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Onde me encontrar
+- GitHub: [github.com/Simonemendes92](https://github.com/Simonemendes92)  
+- LinkedIn: [Simone Mendes](https://www.linkedin.com/in/simone-mendes-0594a321b/)  
+- Email: **simonesp1992@hotmail.com**  
+
+---
+
+## 🛠️ Tecnologias que uso/estudo:
+- **Front-end**: HTML, CSS, JavaScript  
+- **Back-end**: Python  
+- **Banco de Dados**: SQL  
+- **Controle de versão**: Git & GitHub  
+
+---
+
+⭐️ “Sempre em busca de aprender e evoluir!”
