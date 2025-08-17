@@ -3,7 +3,7 @@
 # 👩🏻‍💻 Olá, eu sou a Simone Mendes!  
 
 ✨ Apaixonada por resolver problemas com tecnologia.  
-🎓 Formada em Análise e Desenvolvimento de Sistemas.  
+🎓 Cursando em Análise e Desenvolvimento de Sistemas.  
 🌱 Atualmente aprendendo **JavaScript, Python e SQL**.  
 💻 Já estudei **HTML, CSS, Lógica de Programação e Git**.  
 
