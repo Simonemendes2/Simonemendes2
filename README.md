@@ -28,9 +28,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Simonemendes92&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Simonemendes92&layout=compact&theme=radical)  
-
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SimoneMendes2&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneMendes2&layout=compact&theme=radical)
 ---
 
 ## 🔗 Onde me encontrar
