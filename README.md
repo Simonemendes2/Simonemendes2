@@ -29,3 +29,4 @@
 ---
 
 ⭐️ *“Sempre em busca de aprender e evoluir!”*
+![Snake animation](https://github.com/Simonemendes2/Simonemendes2/blob/output/github-contribution-grid-snake.svg)
