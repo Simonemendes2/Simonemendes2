@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # roda a cada 12h
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -27,4 +30,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-run-name: si 
+Simone 92
