@@ -12,11 +12,12 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar snake
+      - name: Gerar Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Simonemendes2
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Publicar no GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
